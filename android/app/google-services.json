@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "262540952150",
+    "firebase_url": "https://babynamessurvey-a686b.firebaseio.com",
+    "project_id": "babynamessurvey-a686b",
+    "storage_bucket": "babynamessurvey-a686b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262540952150:android:55088aaac3435f88",
+        "android_client_info": {
+          "package_name": "com.agz.babynamesapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262540952150-2g3qkm742255qco4ajabutkv8uu0ftha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_3H-zhSkynu1e7lgWoGSDefj4gVEdiSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
